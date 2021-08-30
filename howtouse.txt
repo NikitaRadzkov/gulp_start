@@ -1,16 +1,17 @@
-С правами администратора!
+With administrator rights!
 
-В терминале:
+In the terminal:
 1) npm i
 2) gulp
 
-Переустановка node-sass
-npm rebuild node-sass
+Reinstalling:
+1) node-sass
+2) npm rebuild node-sass
 
-Проблема с pyton
+A problem with pyton
 npm install --global windows-build-tools
 
-Варианты решения проблем c imagemin:
-- папки и файлы должны быть названы латиницей без пробелов
-- тег img и его содержимое должны быть записаны в одну строку без переносов
-- в атрибуте src должен быть указан путь к существующей картинке
+Solutions to c problems "imagemin":
+- folders and files should be named in Latin without spaces
+- the img tag and its contents should be written in one line without hyphenation
+- the src attribute must specify the path to the existing image
