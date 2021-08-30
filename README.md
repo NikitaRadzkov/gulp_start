@@ -1,14 +1,15 @@
 # How to start
 
-## With administrator rights!
-In the terminal:
+## With administrator rights in the terminal:
 ```
 npm i
+
 gulp
 ```
 ## Reinstalling:
 ```
 node-sass
+
 npm rebuild node-sass
 ```
 ## A problem with pyton
