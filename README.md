@@ -2,13 +2,15 @@
 
 ## With administrator rights!
 In the terminal:
-«npm i»
-«gulp»
-
+'''
+npm i
+gulp
+'''
 ## Reinstalling:
-1) node-sass
-2) npm rebuild node-sass
-
+'''
+node-sass
+npm rebuild node-sass
+'''
 ## A problem with pyton
 npm install --global windows-build-tools
 
