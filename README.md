@@ -2,8 +2,8 @@
 
 ## With administrator rights!
 In the terminal:
-<npm i>
-<gulp>
+«npm i»
+«gulp»
 
 ## Reinstalling:
 1) node-sass
