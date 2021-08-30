@@ -2,15 +2,15 @@
 
 ## With administrator rights!
 In the terminal:
-'''
+```
 npm i
 gulp
-'''
+```
 ## Reinstalling:
-'''
+```
 node-sass
 npm rebuild node-sass
-'''
+```
 ## A problem with pyton
 npm install --global windows-build-tools
 
